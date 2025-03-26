@@ -1,6 +1,6 @@
 # Lista Telefónica
 - [x] criar classe Lista Telefonica
-- [ ] inserir contacto
+- [x] inserir contacto
 - [ ] pesquisar contacto
-- [ ] listar todos os contactos
+- [x] listar todos os contactos
 - [ ] remover contactos
