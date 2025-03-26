@@ -34,6 +34,9 @@ public class ListaTelefonicaTeste {
                     pausa();
                     break;
                 case 2: 
+                    System.out.println("Indique o numero telefone: ");
+                    numTel = ler.nextInt();
+                    lista.pesquisar(numTel);
                     pausa();
                     break;
                 case 3: 
@@ -41,6 +44,9 @@ public class ListaTelefonicaTeste {
                     pausa();
                     break;
                 case 4: 
+                    System.out.println("Indique o numero telefone: ");
+                    numTel = ler.nextInt();
+                    lista.remover(numTel);
                     pausa();
                     break;
                 case 0: return;
